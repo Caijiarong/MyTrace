@@ -17,11 +17,11 @@
 
 - Android
   
-  ![Android](./Screanshot_Android_V0.0.jpeg)
+  ![Android](./screanshots/Screanshot_Android_V0.0.jpeg)
 
 - Safari
 
-  ![Safari](./Screanshot_Mac_V0.0.png)
+  ![Safari](./screanshots/Screanshot_Mac_V0.0.png)
 
 
 [TOC]
