@@ -1,0 +1,13 @@
+{
+	"interfaceName":"FINISH_WORK_ORDER_BY_COND",
+	"msg":{
+		"RequestMsg":{
+			"operId":"0",
+			"operFinishDate":"20170728205718",
+			"workOrderId":"927195",
+			"operName":"测试账号-管理员",
+			"dealResult":""
+		},
+		"sysFlag":"KTZX"
+	}
+}
