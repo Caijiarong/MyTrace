@@ -13,15 +13,15 @@
 
 - [PhalApi](https://www.phalapi.net)
 
-# ScreanShot
+# ScreenShot
 
 - Android
   
-  ![Android](./screanshots/Screanshot_Android_V0.0.jpeg)
+  ![Android](./screenshots/Screenshot_Android_V0.0.jpeg)
 
 - Safari
 
-  ![Safari](./screanshots/Screanshot_Mac_V0.0.png)
+  ![Safari](./screenshots/Screenshot_Mac_V0.0.png)
 
 
 [TOC]
