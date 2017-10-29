@@ -1,6 +1,7 @@
 # MyTrace
 
-- A map can describe where I have been, based on echarts.js, FISH, MySQL, PhalApi.
+- A map can describe where I have been. 
+- Based on echarts.js, FISH, MySQL and PhalApi.
 - See <http://liuw53.com/where>.
 - Have fun~
 
@@ -24,5 +25,4 @@
   ![Safari](./screenshots/Screenshot_Mac_V0.0.png)
 
 
-[TOC]
 
