@@ -5,26 +5,27 @@
 - See <http://liuw53.com/where>.
 - Have fun~
 
-# Frondend
+# Frontend
 
 - [FISH](http://fish.ztesoft.com)
 - [Echarts.js](http://echarts.baidu.com)
 
 # Api
 
-- [PhalApi](https://www.phalapi.net)
+- [PhalApi](https://www.phalapi.net) + MySQL
 
 # ScreenShot
+
+- Safari
+
+  ![Safari](./screenshots/Screenshot_Mac_V0.0.png)
+ 
 
 - Android
   
   <!--![Android](./screenshots/Screenshot_Android_V0.0.jpeg)-->
   
   <div align=center><img width="275" src="./screenshots/Screenshot_Android_V0.0.jpeg"/></div>
-
-- Safari
-
-  ![Safari](./screenshots/Screenshot_Mac_V0.0.png)
 
 
 
