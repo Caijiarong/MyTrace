@@ -1,6 +1,8 @@
 # MyTrace
-A map can describe where I have been, based on echarts.js, FISH, MySQL, PhalApi.
-See <http://liuw53.com/where>.
+
+- A map can describe where I have been, based on echarts.js, FISH, MySQL, PhalApi.
+- See <http://liuw53.com/where>.
+- Have fun~
 
 # Frondend
 
@@ -11,7 +13,6 @@ See <http://liuw53.com/where>.
 
 - [PhalApi](https://www.phalapi.net)
 
-
 # ScreanShot
 
 - Android
@@ -20,9 +21,7 @@ See <http://liuw53.com/where>.
 
 - Safari
 
-![Safari](./Screanshot_Mac_V0.0.png)
-
-
+  ![Safari](./Screanshot_Mac_V0.0.png)
 
 
 [TOC]
