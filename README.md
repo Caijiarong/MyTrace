@@ -18,7 +18,9 @@
 
 - Android
   
-  ![Android](./screenshots/Screenshot_Android_V0.0.jpeg)
+  <!--![Android](./screenshots/Screenshot_Android_V0.0.jpeg)-->
+  
+  <div align=center><img width="275" src="./screenshots/Screenshot_Android_V0.0.jpeg"/></div>
 
 - Safari
 
